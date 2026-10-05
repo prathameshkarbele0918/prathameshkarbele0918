@@ -118,7 +118,7 @@ prathamesh = {
 | Period | Role | Company |
 |--------|------|---------|
 | Jan 2024 → Present | Software Developer (AI / Full Stack) | **Q2PAY Technologies** |
-| Nov 2022 → Dec 2023 | Full Stack Developer | **Infiride Technologies** |
+| Nov 2022 → Dec 2023 | Full Stack Developer | **Prism Infoways** |
 
 ---
 
@@ -133,7 +133,7 @@ prathamesh = {
 ## 🏆 Selected Impact
 
 - About 30% faster page loads across 10+ financial workflows, with code splitting and lazy loading on React
-- About 35% lower API response times at Infiride, after tightening REST services on MERN and Python
+- About 35% lower API response times at Prism Infoways, after tightening REST services on MERN and Python
 
 ---
 
