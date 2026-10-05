@@ -130,6 +130,18 @@ prathamesh = {
 
 ---
 
+## 🏆 Certifications
+
+<div align="center">
+
+[![HackerRank Software Engineer](https://img.shields.io/badge/HackerRank_Software_Engineer-2db55d?style=flat-square&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/certificates/ad001dabbee9)
+[![Frontend Developer (React)](https://img.shields.io/badge/Frontend_Developer_(React)-61dafb?style=flat-square&logo=react&logoColor=black)](https://www.hackerrank.com/certificates/5c4df9ee9b7c)
+[![SQL Advanced](https://img.shields.io/badge/SQL_Advanced-00bcd4?style=flat-square&logo=mysql&logoColor=white)](https://www.hackerrank.com/certificates/172e83dea0a7)
+[![REST API Intermediate](https://img.shields.io/badge/REST_API_Intermediate-339933?style=flat-square&logo=nodedotjs&logoColor=white)](https://www.hackerrank.com/certificates/57db9b9486a5)
+[![Problem Solving Basic](https://img.shields.io/badge/Problem_Solving_Basic-e8c547?style=flat-square&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/certificates/e2e19a695848)
+
+</div>
+
 ## 🏆 Selected Impact
 
 - About 30% faster page loads across 10+ financial workflows, with code splitting and lazy loading on React
