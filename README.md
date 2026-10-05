@@ -126,7 +126,7 @@ prathamesh = {
 
 | Period | Credential | School |
 |--------|------------|--------|
-| Aug 2018 → Jun 2022 | Bachelor of Technology  Rajiv Gandhi Proudyogiki Vishwavidyalaya · CGPA 7.93 | **Sha-Shib College of Technology, Bhopal** |
+| Aug 2018 → Jun 2022 | Bachelor of Technology · CGPA 7.93 | **Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal** |
 
 ---
 
