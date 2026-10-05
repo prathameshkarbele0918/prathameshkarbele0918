@@ -38,7 +38,7 @@ prathamesh = {
     "location"    : "Mumbai, India  ·  Open to Remote",
     "focus"       : ["RAG Pipelines", "LLM Agents", "Fintech AI", "Full Stack"],
     "experience"  : "3.5+ years shipping production web & AI applications",
-    "education"   : "B.Tech Mechanical  @  Sha-Shib College of Technology",
+    "education"   : "Bachelor of Technology @ Rajiv Gandhi Proudyogiki Vishwavidyalaya",
     "mission"     : "Ship fintech AI that payment teams use in production, not only in a demo.",
 }
 ```
