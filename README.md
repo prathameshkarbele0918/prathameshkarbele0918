@@ -39,7 +39,7 @@ prathamesh = {
     "focus"       : ["RAG Pipelines", "LLM Agents", "Fintech AI", "Full Stack"],
     "experience"  : "3.5+ years shipping production web & AI applications",
     "education"   : "Bachelor of Technology @ Rajiv Gandhi Proudyogiki Vishwavidyalaya",
-    "mission"     : "Ship fintech AI that payment teams use in production, not only in a demo.",
+    "mission"     : "Make AI actually work in production — not just demos",
 }
 ```
 
