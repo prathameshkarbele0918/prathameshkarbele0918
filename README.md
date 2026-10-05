@@ -16,14 +16,14 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="<a href="https://mail.google.com/mail/?view=cm&fs=1&to=prathameshkarbele91@gmail.com" target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prathameshkarbele91@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
-    &nbsp;
   <a href="https://portfolio-website-sigma-ecru-38.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-3178C6?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
+  &nbsp;
   <img src="https://komarev.com/ghpvc/?username=prathameshkarbele0918&style=for-the-badge&color=3178c6&label=Profile+Views" alt="Profile Views"/>
 </div>
 
