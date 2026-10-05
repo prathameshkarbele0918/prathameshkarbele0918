@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:prathameshkarbele91@gmail.com">
+  <a href="<a href="https://mail.google.com/mail/?view=cm&fs=1&to=prathameshkarbele91@gmail.com" target="_blank">">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   &nbsp;
@@ -170,7 +170,7 @@ prathamesh = {
     <img src="https://img.shields.io/badge/Let's_connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
-  <a href="mailto:prathameshkarbele101@gmail.com">
+ <a href="https://mail.google.com/mail/?view=cm&fs=1&to=prathameshkarbele91@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Drop_me_an_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </div>
